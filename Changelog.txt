@@ -1,0 +1,6 @@
+v2.3.7 release:
+
+- quick fix to remove the conflict with ItemRack for Classic Era 1.15; 
+(Hovering on the weapons slots while both addons were enabled would throw errors)
+- updated the old ATTRIBUTION.md file by switching to the appropriate relation in the acknowledgments;
+- updated TOC version;
